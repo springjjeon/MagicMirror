@@ -1,0 +1,29 @@
+.newsfeed-title {
+  width: 700px;
+}
+
+.xsmall {
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.small {
+  font-size: 17px;
+  line-height: 20px;
+}
+
+.medium {
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.large {
+  font-size: 60px;
+  line-height: 60px;
+}
+
+.xlarge {
+  font-size: 70px;
+  line-height: 70px;
+  letter-spacing: -3px;
+}
