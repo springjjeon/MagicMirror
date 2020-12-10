@@ -209,8 +209,6 @@ Module.register("weatherforecast", {
 			if (this.data.header) return this.data.header + " " + this.fetchedLocationName;
 			else return this.fetchedLocationName;
 		}
-
-		return this.data.header ? this.data.header : "";
 	},
 
 	// Override notification handler.
